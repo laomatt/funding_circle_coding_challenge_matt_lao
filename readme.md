@@ -1,8 +1,10 @@
-Thank you for taking the time to look at my code
+Thank you for taking the time to look at my code.
+
 There are tests inside the main rb file and in the test.rb file
 
 Running instructions:
-  first navigate to the directory that these files are in.
+  Please download or clone/fork this repo.
+  First navigate to the directory that these files are in.
   To print out a table of the first 10 primes, run the following command:
 
       ruby prime_numbers.rb
@@ -20,6 +22,13 @@ Running instructions:
             [3, 6, 9, 15, 21]
             [5, 10, 15, 25, 35]
             [7, 14, 21, 35, 49]
+
+        ruby prime_numbers.rb 3
+
+        =>
+            [1, 2, 3]
+            [2, 4, 6]
+            [3, 6, 9]
 
 
 

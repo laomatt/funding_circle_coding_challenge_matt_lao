@@ -20,7 +20,7 @@ def prime_table(n)
     return true
   end
 
-  # now that we can get prime umber the next step is to get the first n primes
+  # now that we can get prime number the next step is to get the first n primes
   # we instantiate the primes array empty
   array_of_primes = []
   counter = 1
