@@ -3,7 +3,9 @@ There are tests inside the main rb file and in the test.rb file
 
 Running instructions:
   To print out a table of the first 10 primes, run the following command:
+
       ruby prime_numbers.rb
+
 
   To Print out a table of the first N primtes, enter an argument after the command
       eg.
