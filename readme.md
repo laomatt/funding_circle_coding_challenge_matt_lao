@@ -8,14 +8,24 @@ Running instructions:
 
 
   To Print out a table of the first N primtes, enter an argument after the command
+
       eg.
+
         ruby prime_numbers.rb 5
+
           =>
+
             [1, 2, 3, 5, 7]
+
             [2, 4, 6, 10, 14]
+
             [3, 6, 9, 15, 21]
+
             [5, 10, 15, 25, 35]
+
             [7, 14, 21, 35, 49]
+
+
 
 Time and Space complexity:
 
